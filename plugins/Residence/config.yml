@@ -24,7 +24,7 @@ Global:
     netherHeight: 128
     # By setting this to true, player will only pay for x*z blocks ignoring height
     # This will lower residence price by up to 319 times, so adjust block price BEFORE enabling this
-    NoCostForYBlocks: false
+    NoCostForYBlocks: true
   # This determins which tool you can use to see info on residences, default is String.
   # Simply equip this tool and hit a location inside the residence and it will display the info for it.
   InfoToolId: STRING

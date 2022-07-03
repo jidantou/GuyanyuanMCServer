@@ -92,7 +92,7 @@ Groups:
           # Whether or not to ignore the Residence size/count limits when buying a residence.
           IgnoreLimits: false
           # The cost, per block, of making a new Residence or adding a area to it.
-          BuyCost: 8
+          BuyCost: 6
           # The cost, per block, player will be getting back when removing residence. 
           # ATTENTION ResMoneyBack needs to be enabled in config file for this to work
           SellCost: 6

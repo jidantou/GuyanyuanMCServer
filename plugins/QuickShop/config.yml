@@ -135,8 +135,25 @@ use-caching: true
 #1=Adventure (Removed In Current Version)
 chat-type: 0
 
-#MySQL database settings.
-#*****(not public)
+# +----------------------------------------------------------------------------------------------+ #
+# |                                                                                              | #
+# |                                       DataBase config                                        | #
+# |                                                                                              | #
+# |                                          Not pulic                                           | #
+# |                                                                                              | #
+# |                                                                                              | #
+# +----------------------------------------------------------------------------------------------+ #
+
+
+
+
+
+
+
+
+
+
+
 
 #Limits the number of shops a person can create and own at a time.
 limits:
